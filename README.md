@@ -1,4 +1,4 @@
-# 🐑 Nduwa Sheep Manager (Flutter App)
+# 🐑 Flocktrack Sheep Manager (Flutter App)
 
 **Developer:** Victor Ngae  
 **Platform:** Flutter  
@@ -9,7 +9,7 @@
 
 ## 📘 Overview
 
-**Nduwa Sheep Manager** is a smart livestock management app built to help farmers efficiently track, record, and manage their sheep and lamb data.  
+**Flocktrack Sheep Manager** is a smart livestock management app built to help farmers efficiently track, record, and manage their sheep and lamb data.  
 The app provides an easy-to-use interface for handling animal records, images, parent relationships, and medical information — all stored securely in the cloud.
 
 ---
